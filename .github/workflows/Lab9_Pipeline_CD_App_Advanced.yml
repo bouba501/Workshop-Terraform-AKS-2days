@@ -1,4 +1,4 @@
-name: 5 - Workflow CD Application dans AKS - Advanced
+name: 5 - Workflow CD Application dans AKS - Advanced toto
 
 on:
   workflow_dispatch:
