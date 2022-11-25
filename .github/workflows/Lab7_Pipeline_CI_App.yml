@@ -3,8 +3,8 @@ name: 3 - Workflow CI Application
 on:
   workflow_dispatch:
 
-env: # variables 
-  REGISTRY_NAME: "acrpierrc007"
+env: # variables
+  REGISTRY_NAME: "bslstan2022"
   APP_NAME: "coolapi"
   IMAGE_VERSION: "1.0.0"
 
